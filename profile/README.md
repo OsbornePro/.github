@@ -11,9 +11,6 @@ Check out the OsbornePro TV YouTube channel where we cover how to use some diffe
     <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social"/>
 </a> <br>
 
-
-<h2>Joke of the Day <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 #### MY LINKS
