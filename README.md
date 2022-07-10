@@ -8,32 +8,9 @@ __CONTACT ME:__ <info@osbornepro.com> <br>
 
 Check out the OsbornePro TV YouTube channel where we cover how to use some different technologies and secure protocols. If this is something that may benefit you I believe our videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!  
 <a href="https://www.youtube.com/c/OsborneProLLC?sub_confirmation=1)">
-    <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social" />
-  </a>
-<br>
+    <img alt="Subscribe OsbornePro TV" title="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCSWdaQpT3W7UnugkWXsWEaA?style=social"/>
+</a> <br>
 
- <a href="https://github.com/OsbornePro">
-    <img src="https://badges.pufler.dev/years/OsbornePro?style=flat-square&color=black&logo=github&a=0" />
-  </a>
-  <a href="https://github.com/OsbornePro">
-    <img src="https://badges.pufler.dev/visits/OsbornePro/OsbornePro?style=flat-square&color=black&logo=github&a=0" />
-  </a>
-  
-  <img src="https://badges.pufler.dev/repos/OsbornePro" />
-  
-
-# 🏆 GitHub Trophys
-![trophy](https://github-profile-trophy.vercel.app/?username=OsbornePro)
-# Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsbornePro&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=OsbornePro&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
-</table>
 
 ## GitHub Activity
 | ![OsbornePro github stats](https://github-readme-stats.vercel.app/api?username=OsbornePro&show_icons=true&theme=radical)             | ![OsbornePro GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsbornePro&theme=radical)                                                                                                           |
