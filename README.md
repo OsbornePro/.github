@@ -12,11 +12,6 @@ Check out the OsbornePro TV YouTube channel where we cover how to use some diffe
 </a> <br>
 
 
-## GitHub Activity
-| ![OsbornePro github stats](https://github-readme-stats.vercel.app/api?username=OsbornePro&show_icons=true&theme=radical)             | ![OsbornePro GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OsbornePro&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsbornePro&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=OsbornePro&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
-
 <h2>Joke of the Day <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
