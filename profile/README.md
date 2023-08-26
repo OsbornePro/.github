@@ -2,7 +2,7 @@
 
 We are dedicated to improving the security of business and home networks through the use of our open source code, blogs, and videos.
 
-__FOLLOW OsbornePro!__ [![GitHub OsbornePro](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/OsbornePro)<br>
+__FOLLOW OsbornePro!__ [![GitHub OsbornePro](https://img.shields.io/github/followers/OsbornePro?label=follow&style=social)](https://github.com/OsbornePro)<br>
 __FOLLOW Robert H. Osborne!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)<br>
 __CONTACT ME:__ <info@osbornepro.com> <br>
 
