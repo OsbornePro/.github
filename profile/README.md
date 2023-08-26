@@ -2,8 +2,8 @@
 
 We are dedicated to improving the security of business and home networks through the use of our open source code, blogs, and videos.
 
-__FOLLOW US!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)
-<br>
+__FOLLOW OsbornePro!__ [![GitHub OsbornePro](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/OsbornePro)<br>
+__FOLLOW Robert H. Osborne!__ [![GitHub tobor88](https://img.shields.io/github/followers/tobor88?label=follow&style=social)](https://github.com/tobor88)<br>
 __CONTACT ME:__ <info@osbornepro.com> <br>
 
 Check out the OsbornePro TV YouTube channel where we cover how to use some different technologies and secure protocols. If this is something that may benefit you I believe our videos go more in depth than the typical YouTuber and they may be just what you are looking for. Come check them out!  
